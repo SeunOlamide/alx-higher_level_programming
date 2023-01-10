@@ -23,4 +23,4 @@ def pascal_triangle(n):
         after += [1]
         triangle.append(after)
 
-    return  triangle 
+    return triangle 
